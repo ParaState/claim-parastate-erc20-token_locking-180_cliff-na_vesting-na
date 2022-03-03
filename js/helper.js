@@ -277,7 +277,7 @@ const abi = [{
 ];
 
 // Address of the linear timelock instance
-const linear_address = '0xc58c35e0887286C76C12CA15390B7344C849E7aC';
+const linear_address = '0xF6B3E60268DEE5503b557A871054673d60436B06';
 
 
 // IMPORTANT - which address are you pasting here?
